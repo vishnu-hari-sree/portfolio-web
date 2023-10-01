@@ -383,6 +383,7 @@ h3{
     margin-bottom: 25px;
 }
 .project-box label{
+    text-align: center;
     font-size: 15px;
     color: #777;
 }
