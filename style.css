@@ -603,13 +603,13 @@ footer{
     .featured-image{
         order: 1;
         justify-content: center;
-        min-height: 210px;
+        min-height: 150px;
         width: 100%;
         margin-top: 65px;
     }
     .image, .image img{
-        width: 210px;
-        height: 210px;
+        width: 150px;
+        height: 150px;
     }
     .row{
         display: flex;
