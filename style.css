@@ -517,7 +517,7 @@ footer{
     text-decoration: none;
     color: var(--text-color-second);
     font-weight: 500;
-    margin-inline: 20px;
+    margin-inline: 10px;
 }
 .footer-social-icons{
     display: flex;
